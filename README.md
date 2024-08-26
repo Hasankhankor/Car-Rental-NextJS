@@ -1,5 +1,5 @@
 <a href="https://ik.imagekit.io/os33grffu/car%20re.JPG?updatedAt=1724698828446/">
-    <img width="100%" src="[https://ik.imagekit.io/os33grffu/landing.JPG?updatedAt=1724693903071](https://ik.imagekit.io/os33grffu/car%20re.JPG?updatedAt=1724698828446)">
+    <img width="100%" src="https://ik.imagekit.io/os33grffu/car%20re.JPG?updatedAt=1724698828446">
   </a>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
